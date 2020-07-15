@@ -44,7 +44,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/nextBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -72,8 +72,8 @@
 
     <ImageView
         android:id="@+id/yourCardImage"
-        android:layout_width="140"
-        android:layout_height="210"
+        android:layout_width="140dp"
+        android:layout_height="210dp"
         android:layout_marginStart="24dp"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="8dp"
@@ -85,8 +85,8 @@
 
     <ImageView
         android:id="@+id/droidCardImage"
-        android:layout_width="140"
-        android:layout_height="210"
+        android:layout_width="140dp"
+        android:layout_height="210dp"
         android:layout_marginStart="48dp"
         android:layout_marginLeft="48dp"
         android:layout_marginTop="8dp"
