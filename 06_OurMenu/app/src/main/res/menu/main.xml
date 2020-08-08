@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/curry"
+        android:title="@string/curry_text" >
+        <menu >
+            <item
+                android:id="@+id/greencurry"
+                android:title="@string/greencurry_text" />
+            <item
+                android:id="@+id/beefcurry"
+                android:title="@string/beefbowl_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/noodle"
+        android:title="@string/noodle_text" >
+        <menu >
+            <item
+                android:id="@+id/soba"
+                android:title="@string/soba_text" />
+            <item
+                android:id="@+id/ramen"
+                android:title="@string/ramen_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/stew"
+        android:title="@string/stew_text" >
+        <menu >
+            <item
+                android:id="@+id/oden"
+                android:title="@string/oden_text" />
+            <item
+                android:id="@+id/osyarenabe"
+                android:title="@string/osyarenabe_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/etc"
+        android:title="@string/etc_text" >
+        <menu >
+            <item
+                android:id="@+id/beefbowl"
+                android:title="@string/beefbowl_text" />
+            <item
+                android:id="@+id/peperoncino"
+                android:title="@string/peperoncino_text" />
+        </menu>
+    </item>
+</menu>

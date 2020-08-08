@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Our Menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="curry_text">カレー</string>
+    <string name="greencurry_text">グリーンカレー</string>
+    <string name="beefcurry_text">牛すじカレー</string>
+    <string name="noodle_text">麺類</string>
+    <string name="soba_text">ぶっかけそば</string>
+    <string name="ramen_text">醤油ラーメン</string>
+    <string name="stew_text">鍋もの</string>
+    <string name="oden_text">おでん</string>
+    <string name="osyarenabe_text">すこしおしゃれな鍋</string>
+    <string name="etc_text">その他</string>
+    <string name="beefbowl_text">牛丼</string>
+    <string name="peperoncino_text">ペペロンチーノ</string>
 </resources>
