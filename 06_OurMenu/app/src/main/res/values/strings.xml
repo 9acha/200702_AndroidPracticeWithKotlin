@@ -13,4 +13,6 @@
     <string name="etc_text">その他</string>
     <string name="beefbowl_text">牛丼</string>
     <string name="peperoncino_text">ペペロンチーノ</string>
+    <string name="mail_text">メールする</string>
+    <string name="sms_text">SMSする</string>
 </resources>
